@@ -1,3 +1,4 @@
 name: "*next*"
+verbose: true
 package:
-  - "@jaronline/ts-template"
+  - "@jaronline/ts-monorepo-template"

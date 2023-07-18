@@ -1,7 +1,3 @@
 {
-	"extends": "@sapphire/ts-config",
-	"compilerOptions": {
-		"incremental": false,
-		"useDefineForClassFields": false
-	}
+	"extends": "@sapphire/ts-config"
 }
